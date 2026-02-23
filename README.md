@@ -34,3 +34,15 @@ The pre-trained checkpoints for both the **Victim Models** and the **Proposed Mo
 Please download the models and place them in the appropriate directories.
 
 ## Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{an2026removing,
+  title={Removing Box-Free Watermarks for Image-to-Image Models via Query-Based Reverse Engineering},
+  author={An, Haonan and Hua, Guang and Cao, Hangcheng and Fang, Zhengru and Xu, Guowen and Rahardja, Susanto and Fang, Yuguang},
+  booktitle={Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI 2026)},
+  year={2026},
+  address={Singapore}
+}
+```
